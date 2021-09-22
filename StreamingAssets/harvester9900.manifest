@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2152114502
+CRC: 374141164
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b0e3c212ee11e126d01bb1894d5e8a1
+    Hash: 3e5bb5106fcdf7dd4887e4937791640c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 726bdc403c7a95d1e6903288565b125d
@@ -167,4 +167,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/_Game/Prefabs/Products/Australia/9900/harvester9900.prefab
 Dependencies:
-- D:/Projects/VEX2.0/vex-web/vex-showroom/Assets/AssetBundles/harvester9250
+- D:/Venturion VR/vex-showroom/Assets/StreamingAssets/harvester9250

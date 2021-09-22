@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 569002026
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: harvester9250
+      Dependencies: {}
+    Info_1:
+      Name: harvester7150
+      Dependencies: {}
+    Info_2:
+      Name: harvester6150
+      Dependencies: {}
+    Info_3:
+      Name: harvester9250_africa
+      Dependencies: {}
+    Info_4:
+      Name: harvester4150
+      Dependencies: {}
+    Info_5:
+      Name: magnum
+      Dependencies: {}
+    Info_6:
+      Name: harvester9900
+      Dependencies:
+        Dependency_0: harvester9250
