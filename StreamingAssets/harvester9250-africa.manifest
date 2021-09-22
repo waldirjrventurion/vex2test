@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2277394925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4975ec4b59978bac23c0e744b520e1e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/Video/9250-saf/video250-2-es.mp4
+- Assets/_Game/Video/9250-saf/video250-6-es.mp4
+- Assets/_Game/Video/9250-saf/video250-1-es.mp4
+- Assets/_Game/Video/9250-saf/video250-4-es.mp4
+Dependencies: []
